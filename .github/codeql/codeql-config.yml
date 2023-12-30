@@ -7,4 +7,4 @@
 name: "CodeQL Config"
 
 paths-ignore: 
-- 'build/static'
+- 'build'
