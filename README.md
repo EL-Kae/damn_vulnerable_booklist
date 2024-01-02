@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an intentional vulnerable web application with just one cross-site scripting (XSS) vulnerablity.
 
 ## Setup
 
@@ -27,3 +27,4 @@ app.use(helmet.contentSecurityPolicy({
   },
 }))
 ```
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
